@@ -1,0 +1,482 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 778483324,
+      "message": {
+        "message_id": 18,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554711425,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483325,
+      "message": {
+        "message_id": 19,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554714031,
+        "text": "как дела"
+      }
+    },
+    {
+      "update_id": 778483326,
+      "message": {
+        "message_id": 20,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554715400,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483327,
+      "message": {
+        "message_id": 21,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554723168,
+        "text": "/stop",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483328,
+      "message": {
+        "message_id": 22,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554723173,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483329,
+      "message": {
+        "message_id": 27,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554724418,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483330,
+      "message": {
+        "message_id": 91,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554725330,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483331,
+      "message": {
+        "message_id": 95,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554725515,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483332,
+      "message": {
+        "message_id": 112,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726593,
+        "text": "5hgrhrh"
+      }
+    },
+    {
+      "update_id": 778483333,
+      "message": {
+        "message_id": 113,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726642,
+        "text": "thth"
+      }
+    },
+    {
+      "update_id": 778483334,
+      "message": {
+        "message_id": 114,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726648,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483335,
+      "message": {
+        "message_id": 125,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726654,
+        "text": "/stop",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 5,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483336,
+      "edited_message": {
+        "message_id": 125,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726654,
+        "edit_date": 1554726759,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483337,
+      "message": {
+        "message_id": 126,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726773,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483338,
+      "message": {
+        "message_id": 127,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726780,
+        "text": "/bts",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483339,
+      "message": {
+        "message_id": 129,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726847,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483340,
+      "message": {
+        "message_id": 160,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554726933,
+        "text": "/btc",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 4,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 778483341,
+      "message": {
+        "message_id": 186,
+        "from": {
+          "id": 500068016,
+          "is_bot": false,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 500068016,
+          "first_name": "Max",
+          "last_name": "Borschevskiy",
+          "type": "private"
+        },
+        "date": 1554733405,
+        "text": "мв"
+      }
+    }
+  ]
+}
